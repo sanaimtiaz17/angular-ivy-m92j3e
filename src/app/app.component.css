@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+.angular-with-newlines {
+  white-space: pre;
+}
+.label-with-newline
+{
+white-space: pre-wrap;
+}
